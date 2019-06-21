@@ -1,1 +1,1 @@
-# scala-datagenerator
+# Random Data Generator in Scala
